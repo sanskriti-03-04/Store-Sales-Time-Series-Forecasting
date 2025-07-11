@@ -92,9 +92,6 @@ Calendar-based features (day, month)
 
 ---
 
-## 🙌 Credits
-
-Inspired by Amazon-style demand forecasting problems and data-driven decision science practices.
 
 
 
